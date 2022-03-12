@@ -1,0 +1,61 @@
+cabal-version: 1.12
+
+-- This file has been generated from package.yaml by hpack version 0.34.4.
+--
+-- see: https://github.com/sol/hpack
+
+name:           scrape-itch-io-bundle
+version:        0.1.0.0
+synopsis:       Scraper hack-job for an itch.io bundle
+description:    Scraper hack-job for an itch.io bundle
+category:       Web
+homepage:       https://github.com/jship/scrape-itch-io-bundle#readme
+bug-reports:    https://github.com/jship/scrape-itch-io-bundle/issues
+author:         Jason Shipman
+maintainer:     Jason Shipman
+copyright:      2022 (c) Jason Shipman
+license:        MIT
+license-file:   LICENSE.md
+build-type:     Simple
+extra-source-files:
+    LICENSE.md
+    package.yaml
+    README.md
+
+source-repository head
+  type: git
+  location: https://github.com/jship/scrape-itch-io-bundle
+
+library
+  exposed-modules:
+      ScrapeItchIOBundle
+  other-modules:
+      Paths_scrape_itch_io_bundle
+  hs-source-dirs:
+      library
+  default-extensions:
+      NoImplicitPrelude
+  ghc-options: -Wall -Wcompat -Widentities -Wimplicit-prelude -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-deriving-strategies -Wpartial-fields -Wredundant-constraints -Wunused-type-patterns
+  build-depends:
+      base
+    , bytestring
+    , cassava
+    , http-client
+    , http-client-tls
+    , http-types
+    , scalpel
+  default-language: Haskell2010
+
+executable scrape-itch-io-bundle
+  main-is: scrape-itch-io-bundle.hs
+  other-modules:
+      Paths_scrape_itch_io_bundle
+  hs-source-dirs:
+      executables
+  default-extensions:
+      NoImplicitPrelude
+  ghc-options: -Wall -Wcompat -Widentities -Wimplicit-prelude -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-deriving-strategies -Wpartial-fields -Wredundant-constraints -Wunused-type-patterns -threaded -rtsopts -with-rtsopts=-N -O2
+  build-depends:
+      base
+    , scrape-itch-io-bundle
+  default-language: Haskell2010

@@ -1,0 +1,56 @@
+name: scrape-itch-io-bundle
+version: '0.1.0.0'
+github: "jship/scrape-itch-io-bundle"
+license: MIT
+license-file: LICENSE.md
+copyright: 2022 (c) Jason Shipman
+author: "Jason Shipman"
+maintainer: "Jason Shipman"
+synopsis: Scraper hack-job for an itch.io bundle
+description: |
+  Scraper hack-job for an itch.io bundle
+category: Web
+
+extra-source-files:
+- LICENSE.md
+- package.yaml
+- README.md
+
+ghc-options:
+- -Wall
+- -Wcompat
+- -Widentities
+- -Wimplicit-prelude
+- -Wincomplete-record-updates
+- -Wincomplete-uni-patterns
+- -Wmissing-deriving-strategies
+- -Wpartial-fields
+- -Wredundant-constraints
+- -Wunused-type-patterns
+
+default-extensions:
+- NoImplicitPrelude
+
+library:
+  dependencies:
+  - base
+  - bytestring
+  - cassava
+  - http-client
+  - http-client-tls
+  - http-types
+  - scalpel
+  source-dirs: library
+
+executables:
+  scrape-itch-io-bundle:
+    main: scrape-itch-io-bundle.hs
+    source-dirs: executables
+    dependencies:
+    - base
+    - scrape-itch-io-bundle
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    - -O2
