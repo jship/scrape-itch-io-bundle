@@ -1,7 +1,11 @@
 name,win,linux,mac,author,description
+GNOG,t,f,t,KO_OP,Tactile puzzle boxes
+Evergate,t,f,f,PQube Games,Evergate is a haunting 2D puzzle-platformer set in a stunning hand-drawn vision of the Afterlife.
 SkateBIRD,t,t,t,glassbottommeg,It's a game about trying your best
+Fuzz Dungeon,t,f,f,jeremycouillard,The well back to your job has been absorbed inside a sasquatch sex amulet.
 Backbone,t,f,f,Raw Fury,A post-noir narrative adventure. Become raccoon private eye Howard Lotor and explore dystopian Vancouver.
 Cloud Gardens,t,f,t,noio,A chill game about using plants to overgrow abandoned wasteland dioramas
+Gunmetal Arcadia Zero,t,t,t,J. Kyle Pittman,"Unrest brews in the city of Arcadia, and a monstrous enemy approaches."
 CrossCode,t,t,t,Radical Fish Games,A retro-inspired 2D Action-RPG set in the distant future
 Thirsty Sword Lesbians,f,f,f,evilhat,Thirsty Sword Lesbians is a roleplaying game for telling queer stories with friends.
 Kingdom Two Crowns,t,f,f,Raw Fury,Build your kingdom and secure it from the threat of the Greed.
@@ -48,10 +52,12 @@ TowerFall Dark World Expansion,t,t,t,Maddy Makes Games,More ways to murder your 
 Jotun: Valhalla Edition,t,t,t,Thunder Lotus,Jotun is a hand-drawn action-exploration game set in Norse mythology. Impress the Gods!
 Minit,t,t,t,Devolver Digital,Minit is a peculiar little adventure played sixty seconds at a time.
 Bleed,t,t,t,BootdiskRevolution,"Air-dodge, slow-time and blast baddies in this twin-skick action-platformer!"
-SPOOKWARE,t,f,f,papercookies,Play loads of microgames and go on a road trip through the afterlife!
 Sunlight,t,f,f,KrillbiteStudio,"A short, vibrant and thought captivating exploration game."
+SPOOKWARE,t,f,f,papercookies,Play loads of microgames and go on a road trip through the afterlife!
+Prata: Dialogs in seconds,f,f,f,Berserk Pixel Game Studio,
 They Bleed Pixels,t,t,t,Spooky Squid Games Inc.,They Bleed Pixels is a fiendishly difficult platforming slash'em up inspired by weird fiction and gothic horror.
 TowerFall Ascension,t,t,t,Maddy Makes Games,Local Multiplayer Archery Chaos!
+Avesta: Tilemap Generator,f,f,f,Berserk Pixel Game Studio,
 A Mortician's Tale,t,f,t,Laundry Bear Games,A death-positive game where you play as a mortician tasked with running a funeral home
 Arcade Spirits,t,t,t,Fiction Factory Games,A Romantic Comedy Narrative Game
 Long Gone Days,t,f,t,Camila Gormaz,"Modern-day RPG that imagines the world of war that's coming for us, with a focus on civilians and language barriers."
@@ -197,8 +203,8 @@ Yourself,f,f,f,K-Ramstack,A solo ttrpg of identity and self reflection
 The Drain,f,f,f,Ian Yusem,An Occult Mothership Funnel
 1-6 Oozes in the Dark,f,f,f,Deus Ex Minima,A print-and-play micro-module for 5e
 Sophie's Safecracking Simulator,t,t,t,Sophie Houlden,Crack locks using real safecracking techniques!
-Where Magic Died,f,f,f,Sascha Moros,"A 3 page game of belonging outside belonging, dead magic and a tower"
 A History of Moments,f,f,f,archive15,A game of collaborative storytelling where you dive into the history of your character.
+Where Magic Died,f,f,f,Sascha Moros,"A 3 page game of belonging outside belonging, dead magic and a tower"
 Sweaters by Hedgehog,f,f,f,Haunted Oak Press,A solo journaling game about a little hedgehog person trying to sell your little sweaters in your little village shop.
 A Man on the Road,f,f,f,Ian Yusem,An encounter with a horrible bastard
 The Lay Of Our Land,f,f,f,Armanda,"A solo journaling game about the ephemeral things in life and in the world, based on Lost and Found SRD"
@@ -538,7 +544,7 @@ To Stand Before the Dragon's Wrath,f,f,f,Glaive Guisarme Games,Slay a dragon or 
 Penumbra: A Trophy Dark Incursion,f,f,f,ATypicalFaux,Only the poison can save them
 Shell Out Showdown,t,t,f,manadream,"A food-fight, reverse battle royale, set in the near future. Control a sapient vending machine and throw food to glory!"
 Wonderland Nights: White Rabbit's Diary,t,t,f,skybeargames,Play as the White Rabbit in a schedule-based visual novel game set in the world of Alice in Wonderland.
-RAYCATS!â¢ - NEW RELEASE!,f,f,f,6 String Games,A MICRO-RPG about TOTALLY RAD nuclear-mutant cats!
+RAYCATS!â¢,f,f,f,6 String Games,A MICRO-RPG about TOTALLY RAD nuclear-mutant cats!
 MiniFolks - Orcs,f,f,f,LYASeeK,Pixel art characters pack
 The Creature Comes for Us,t,t,t,OrionQK,"A card-drawing game for 1+ players. Create a world, a menace to threaten it, heroes to fight it, and then do battle."
 Tic Tac Together,t,f,f,andrfw,A team-based twist on Tic Tac Toe!
@@ -811,7 +817,7 @@ Jabberwocky,t,t,f,python-b5,"A small action-adventure based on Lewis Carroll's "
 "Drones, The Human Condition",t,t,f,Blunt,
 Ambient Puzzle Music/SFX Pack,f,f,f,Chris Logsdon,8 songs + 53 SFX designed for focused thought.
 Retro and Electronic Music Pack,f,f,f,Slaleky,24 looping futuristic sci-fi tracks for space adventures and cyberpunk cities!
-Changes,f,f,f,etalgames,A puzzle game about living structures that evolve every time you move.
+Changes,t,f,f,etalgames,A puzzle game about living structures that evolve every time you move.
 6 pack of craft games,t,t,t,Ash K,small things i made for fun
 Klang 2,t,f,f,Tinimations,Pursue immersion with electronic dance music through lightning-fast combat.
 Fox Magic [first edition] bundle,f,f,f,"Fool's Moon Entertainment, Inc.",A role playing game inspired by one of the most fascinating creatures in Japanese folklore: the Kitsune.
@@ -883,7 +889,7 @@ Bat Lizard Bonanza,f,f,f,John Vanderhoef,An arcade shooter (shmup) for the NES.
 Parselings: Infer Memorial Station (PDF),f,f,f,Smunchy Games,An introduction story module for the tabletop RPG Parselings.
 Dark Sheep,t,t,t,Daisy Games,"Horror Meets Sokoban; Kidnap, Sacrifice, Witness!"
 Desolate Roads,t,f,f,Gadan Games,A first-person psychological horror vignette
-Sudd City Adventures,t,f,t,Sudd City,Sudd City Adventures is a lighthearted point-and-click narrative game set in a world of ordinary superheroes.
+Sudd City Adventures,t,f,t,Sudd City Interactive,Sudd City Adventures is a lighthearted point-and-click narrative game set in a world of ordinary superheroes.
 Leggite Luta Livre,f,f,f,John Vanderhoef,An arcade beat-em-up for the NES.
 The Stirring Among The Stars: Book Two of the Dread Naught Trilogy,f,f,f,Dylan Wayne Sanchez,The sequel to The Shadow Among The Stars
 Rosette Diceless Companion,f,f,f,Future Proof Games,"New rules, play advice, and new character options for Rosette Diceless"
